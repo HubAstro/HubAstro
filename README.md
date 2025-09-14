@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React based project**
 
-- 🌱 I’m currently learning **AWS - Amazon Web Service**
+- 🌱 I’m currently learning **AWS - Amazon Web Service** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/HubAstro](https://github.com/HubAstro)
 
